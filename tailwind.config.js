@@ -13,7 +13,8 @@ module.exports = {
       'Cream': '#f2ebe3',
       'Very-dark-blue': '#1c232b',
       'Dark-grayish-blue': '#6c7289',
-      'White': '#ffffff'
+      'White': '#ffffff',
+      'dark-green': '#064e3b'
     },
     extend: {},
   },
